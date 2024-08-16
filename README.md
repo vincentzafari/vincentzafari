@@ -3,5 +3,5 @@
 - 🌱 Je suis actuellement en formation de développeur web, web mobile et accessibilité.  
 - 💞️ Je cherche à collaborer sur des projets visant à rendre le web plus accessible et inclusif.  
 - 📫 Comment me contacter : [vincent.zafari@example.com](mailto:vincent.zafari@oclock.school)  
-- 😄 Pronoms : Il/Lui  
+- 😄 Pronoms : Moi 
 - ⚡ Fun fact : Je suis passionné de jeux vidéo et j'aime explorer comment la technologie peut améliorer l'expérience de jeu pour tout le monde, y compris pour les personnes en situation de handicap.
